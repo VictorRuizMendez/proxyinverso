@@ -6,4 +6,3 @@ services:
     hostname: proxyInverso
     ports:
       - '80:80'
-
